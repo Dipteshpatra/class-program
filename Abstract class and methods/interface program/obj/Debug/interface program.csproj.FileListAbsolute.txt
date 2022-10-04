@@ -1,0 +1,8 @@
+C:\Projects\Abstract class and methods\interface program\bin\Debug\interface program.exe.config
+C:\Projects\Abstract class and methods\interface program\bin\Debug\interface program.exe
+C:\Projects\Abstract class and methods\interface program\bin\Debug\interface program.pdb
+C:\Projects\Abstract class and methods\interface program\obj\Debug\interface program.csproj.AssemblyReference.cache
+C:\Projects\Abstract class and methods\interface program\obj\Debug\interface program.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Abstract class and methods\interface program\obj\Debug\interface program.csproj.CoreCompileInputs.cache
+C:\Projects\Abstract class and methods\interface program\obj\Debug\interface program.exe
+C:\Projects\Abstract class and methods\interface program\obj\Debug\interface program.pdb
